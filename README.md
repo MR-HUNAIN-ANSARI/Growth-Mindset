@@ -20,7 +20,7 @@ Clean, centered layout with custom styling for quote display boxes and user-frie
 bash
 Copy
 Edit
-git clone https://github.com/MR-HUNAIN-DURRANI/Growth-Mindset/blob/main/app.py
+git clone https://github.com/MR-HUNAIN-ANSARI/Growth-Mindset/blob/main/README.md
 cd motivation-quotes-app
 2. Install Dependencies
 Make sure you have Python installed. Then install required packages:
